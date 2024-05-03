@@ -1,12 +1,19 @@
 {
-    "name": "goiteens-gs-hw-04",
-    "version": "1.0.0",
-    "description": "Дз",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js"
-    },
-    "keywords": [],
-    "author": "Maksym",
-    "license": "ISC"
-  }
+  "name": "goiteens-gs-hw-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimAlchynskyi/goiteens-gs-hw-04.git"
+  },
+  "author": "Maksym Alchynkyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksimAlchynskyi/goiteens-gs-hw-04/issues"
+  },
+  "homepage": "https://github.com/MaksimAlchynskyi/goiteens-gs-hw-04#readme"
+}
